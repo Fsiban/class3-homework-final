@@ -1,0 +1,5 @@
+A docker continer is a software program that runs operating systems virtually. It enables appilcation sharing between 
+cloud and on premise making applications developed on docker accessisble from anywhere. One use that comes to mindfrom 
+my work environment, is using docker for ERP applications thathave various modules and require security and easy access 
+from anywhere. 
+
